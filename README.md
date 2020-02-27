@@ -1,2 +1,0 @@
-# Procesos01
-Practica
