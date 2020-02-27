@@ -26,6 +26,7 @@ int op, b=0, n=0;
 while(true){
 system("cls");
 cout << "\t\tRegistro Cliente\t\n" << "1.Alta\n2.Baja\n3.Imprimir\n4.Actualizar\n5.Salir\nOpci?: ";
+cout << "\t\tRegistro Cliente\t\n" << "1.Alta\n2.Baja\n3.Imprimir\n4.Actualizar\n5.Salir\nOpci?: ";
 cin >> op;
 switch(op){
 case 1:
